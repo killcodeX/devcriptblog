@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Devcript Blogs</title>
+        <link rel="icon" href="https://www.devcript.com/wp-content/uploads/2020/11/devcript-favicon-white.png" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Hello world
         </h1>
 
         <p className="description">
